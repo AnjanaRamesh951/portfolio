@@ -3,7 +3,7 @@
     height: 40vh;
     margin: 20px 10px;
     border: 2px solid rgba(243,242,242);
-    border-radius:10px 10px 0px;
+    border-radius:10px;
     overflow:hidden;
 }
 .p-browser{
