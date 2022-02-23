@@ -8,7 +8,7 @@ const ProductList = () => {
   return (
     <div className="pl">
         <div className="pl-texts">
-            <h1 className="pl-title">Create and inspire. Think Deffrent</h1>
+            <h1 className="pl-title">Create and inspire. Think different</h1>
             <p className="pl-desc">
                Take a look at the website i have developed.Make a Click!
             </p>

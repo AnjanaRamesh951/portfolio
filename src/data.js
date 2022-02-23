@@ -6,12 +6,12 @@ export const products = [
     },
     {
         id:2,
-        img: "https://images.pexels.com/photos/1070981/pexels-photo-1070981.jpeg",
+        img: "https://images.pexels.com/photos/4348401/pexels-photo-4348401.jpeg",
         link:"https://quizzical-wing-afc2f8.netlify.app/",
     },
     {
         id:3,
-        img: "https://images.pexels.com/photos/1070981/pexels-photo-1070981.jpeg",
+        img: "https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg",
         link:"https://quizzical-wing-afc2f8.netlify.app/",
     },
     {
@@ -26,7 +26,7 @@ export const products = [
     },
     {
         id:6,
-        img: "https://images.pexels.com/photos/1070981/pexels-photo-1070981.jpeg",
+        img: "https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg",
         link:"https://quizzical-wing-afc2f8.netlify.app/",
     },
     

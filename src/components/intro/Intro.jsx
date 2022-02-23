@@ -22,7 +22,7 @@ const Intro = () => {
           </div>
        
           <p className="i-desc">
-           FrontEnd and BackEnd Developer from India
+           Fullstack Developer from India
           </p>
         </div>
         <svg

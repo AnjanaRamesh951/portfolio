@@ -15,7 +15,7 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          Hello World, Am a FrontEnd/BackEnd Developer based out of India. 
+          Hello World, Am a Fullstack Developer based out of India. 
         </p>
         <p className="a-desc">
           "I love combining the worlds of eye catching and user friendly websites."
